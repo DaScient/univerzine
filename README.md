@@ -7,7 +7,7 @@ It’s a **cosmic, interactive magazine** — a living field of particles, gravi
 A place where articles don’t scroll…  
 they **exist in space**.
 
-Instagram: (@univerzine)[https://instagram.com/univerzine]
+Instagram: [@univerzine](https://instagram.com/univerzine)
 ---
 
 ## ✨ What is Univerzine?
