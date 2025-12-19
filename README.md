@@ -104,9 +104,8 @@ npx serve .
 Then navigate to:
 
 http://localhost:8080
+```
 
-
-⸻
 
 📁 Repo Structure
 	•	index.html — the universe itself
@@ -115,7 +114,6 @@ http://localhost:8080
 	•	README.md — this document
 	•	LICENSE — MIT
 
-⸻
 
 🧭 Philosophy
 
@@ -127,16 +125,15 @@ You enter it.
 The universe doesn’t ask for attention —
 it rewards curiosity.
 
-⸻
 
 📜 License
 
 MIT — free to explore, remix, and expand.
 See LICENSE for details.
 
-⸻
 
 ✦ Drift well.
 ✦ Explore slowly.
 ✦ Welcome to Univerzine.
 
+Copyright © by DaScient | The Univerzine Project™ | 2025-2026
